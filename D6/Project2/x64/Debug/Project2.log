@@ -1,0 +1,5 @@
+﻿  3_1.cpp
+D:\大学\大二上\数据结构\D6\Project1\3_1.cpp(21,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大二上\数据结构\D6\Project1\3_1.cpp(83,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\大学\大二上\数据结构\D6\Project1\3_1.cpp(219,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Project2.vcxproj -> D:\大学\大二上\数据结构\D6\Project2\x64\Debug\Project2.exe
